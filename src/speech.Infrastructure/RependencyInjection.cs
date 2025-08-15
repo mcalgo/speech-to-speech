@@ -1,6 +1,6 @@
 ﻿namespace speech.Infrastructure;
 
-public class Class1
+public class RependencyInjection
 {
 
 }
