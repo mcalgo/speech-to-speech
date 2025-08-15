@@ -13,9 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speech.Infrastructure", "sr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speech.SharedKernel", "src\speech.SharedKernel\speech.SharedKernel.csproj", "{958D3DAC-2746-46F6-861C-249DF0059E5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speech.InstallerUI", "speech.InstallerUI\speech.InstallerUI.csproj", "{47A47B24-99D8-41A9-B1E4-653E929544B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speech.InstallerUI", "src\speech.InstallerUI\speech.InstallerUI.csproj", "{47A47B24-99D8-41A9-B1E4-653E929544B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speech.Service", "speech.Service\speech.Service.csproj", "{83A4AB98-077C-49A8-9CB9-D6400FFB3E39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "speech.Service", "src\speech.Service\speech.Service.csproj", "{83A4AB98-077C-49A8-9CB9-D6400FFB3E39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
